@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://c02.purpledshub.com/uploads/sites/41/2021/08/mountains-7ddde89.jpg?w=1410&webp=1");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: pink;
+}
+
+#save-btn {
+    background: black;
+}
+
+.container{
+    max-width:300px;
+    margin:auto;
+    background-color:white;
+    border-radius:10px;
+    border: 2px solid pink;
+    margin-Top:60px
+    }
